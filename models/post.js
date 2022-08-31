@@ -1,5 +1,4 @@
 const { Model, DataTypes } = require('sequelize');
-const Post = require('../../../../../Downloads/14.5/models/Post');
 const sequelize = require('../config/connection');
 
 // creating our post model
